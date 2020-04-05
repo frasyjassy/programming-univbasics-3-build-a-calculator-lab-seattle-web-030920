@@ -8,7 +8,7 @@ end
 
 describe "#subtraction" do
   it "subtracts two numbers from each other" do
-    expect(subtraction(10,5)).to eq(5)
+    expect(subtraction(10,5)).to eq(-5)
   end
 end
 
